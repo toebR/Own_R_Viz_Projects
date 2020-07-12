@@ -1,3 +1,7 @@
+#author: Tobias Stalder
+#note: most of the code was transformed out of a script that can be found here https://github.com/isabellabenabaye/life-chart
+
+
 dir = "C:\\Users\\tobia\\OneDrive\\Desktop\\ownprojects\\R\\own_projects\\CV_graphic"
 setwd(dir)
 
