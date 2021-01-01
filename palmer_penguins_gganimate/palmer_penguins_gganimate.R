@@ -1,3 +1,7 @@
+#script by tobias stalder
+#jan 2021
+#tobias-stalder.netlify.app
+
 library(here)
 library(ggplot2)
 library(dplyr)
@@ -49,7 +53,7 @@ ggplot(penguins) +
 
 
 
-# add text that explains the plot to the animation! -----------------------
+# animation
 
 
 
