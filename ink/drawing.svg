@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="297mm"
+   viewBox="0 0 297 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\ink\google_loc_history_2021.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <rect
+       x="176.99924"
+       y="246.35569"
+       width="19.978397"
+       height="10.490329"
+       id="rect28227" />
+    <linearGradient
+       id="linearGradient25892"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop25890" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style10"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <clipPath
+       id="cpMC4wMHw0MjUuMjB8MC4wMHw0MjUuMjA=">
+      <rect
+         x="0"
+         y="0"
+         width="425.20001"
+         height="425.20001"
+         id="rect16" />
+    </clipPath>
+    <clipPath
+       id="cpOTQuMDN8MzMxLjE3fDAuMDB8NDI1LjIw">
+      <rect
+         x="94.029999"
+         y="0"
+         width="237.14"
+         height="425.20001"
+         id="rect23" />
+    </clipPath>
+    <clipPath
+       id="cpMTAyLjI1fDMyNS42OXw1LjQ4fDQxNi45OA==">
+      <rect
+         x="102.25"
+         y="5.48"
+         width="223.44"
+         height="411.5"
+         id="rect34" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style172172"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <clipPath
+       id="cpMC4wMHwyMjYuNzd8MC4wMHwyMjYuNzc=">
+      <rect
+         x="0"
+         y="0"
+         width="226.77"
+         height="226.77"
+         id="rect172178" />
+    </clipPath>
+    <clipPath
+       id="cpNTIuMTR8MjIwLjc5fDUuOTh8MTkyLjQy">
+      <rect
+         x="52.139999"
+         y="5.98"
+         width="168.66"
+         height="186.45"
+         id="rect172187" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style172259"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <clipPath
+       id="cpMC4wMHw0MjUuMjB8MC4wMHw0MjUuMjA=-6">
+      <rect
+         x="0"
+         y="0"
+         width="425.20001"
+         height="425.20001"
+         id="rect172265" />
+    </clipPath>
+    <clipPath
+       id="cpMC4wMHw0MjUuMjB8NzMuODN8MzUxLjM2">
+      <rect
+         x="2.5e-14"
+         y="73.830002"
+         width="425.20001"
+         height="277.53"
+         id="rect172272" />
+    </clipPath>
+    <clipPath
+       id="cpOC4yMnw0MTkuNzJ8NzkuMzF8MzQzLjE1">
+      <rect
+         x="8.2200003"
+         y="79.309998"
+         width="411.5"
+         height="263.82999"
+         id="rect172283" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25618">
+      <rect
+         style="fill:#000000;fill-opacity:0.37619;stroke-width:0.408607;stroke-opacity:0;paint-order:stroke fill markers"
+         id="rect25620"
+         width="100"
+         height="70"
+         x="-7.6552458"
+         y="-284.37479" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25622">
+      <rect
+         style="fill:#000000;fill-opacity:0.37619;stroke-width:0.65523;stroke-opacity:0;paint-order:stroke fill markers"
+         id="rect25624"
+         width="100"
+         height="180"
+         x="231.69133"
+         y="-374.94696" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25626">
+      <rect
+         style="fill:#000000;fill-opacity:0.37619;stroke-width:0.408607;stroke-opacity:0;paint-order:stroke fill markers"
+         id="rect25628"
+         width="100"
+         height="70"
+         x="275.74622"
+         y="-80.171112" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25630">
+      <rect
+         style="fill:#000000;fill-opacity:0.37619;stroke-width:0.408607;stroke-opacity:0;paint-order:stroke fill markers"
+         id="rect25632"
+         width="100"
+         height="70"
+         x="420.93427"
+         y="-86.326492" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath25725">
+      <rect
+         style="font-variation-settings:'wght' 400;fill:#000000;fill-opacity:0.37619;stroke-width:0.600001;stroke-opacity:0;paint-order:stroke fill markers"
+         id="rect25727"
+         width="105.45869"
+         height="93.711952"
+         x="226.23267"
+         y="-288.65891" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="448.88393"
+     inkscape:cy="565.87301"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     height="211mm"
+     units="mm"
+     width="297mm"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-6.6817384,52.982923"
+       orientation="0,-1"
+       id="guide25841" />
+    <sodipodi:guide
+       position="139.78197,197.0412"
+       orientation="0,-1"
+       id="guide25844" />
+    <sodipodi:guide
+       position="250.16428,248.08968"
+       orientation="0,-1"
+       id="guide27864" />
+    <sodipodi:guide
+       position="216.58036,115.57143"
+       orientation="0,-1"
+       id="guide28145" />
+    <sodipodi:guide
+       position="102.59809,77.504902"
+       orientation="1,0"
+       id="guide28190" />
+    <sodipodi:guide
+       position="125.28259,74.899024"
+       orientation="1,0"
+       id="guide28192" />
+    <sodipodi:guide
+       position="-21.166667,161.68453"
+       orientation="0,-1"
+       id="guide28254" />
+    <sodipodi:guide
+       position="104.56921,193.63352"
+       orientation="1,0"
+       id="guide28256" />
+    <sodipodi:guide
+       position="181.80655,231.61013"
+       orientation="1,0"
+       id="guide28258" />
+    <sodipodi:guide
+       position="104.56921,263.36013"
+       orientation="0,-1"
+       id="guide28463" />
+    <sodipodi:guide
+       position="31.372025,115.57143"
+       orientation="1,0"
+       id="guide28497" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="baselayer">
+      <rect
+         style="font-variation-settings:'wght' 400;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.170026;stroke-miterlimit:4;stroke-dasharray:0.510078, 0.170026;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect28499"
+         width="308.45978"
+         height="306.25653"
+         x="-5.4371066"
+         y="-3.7417698"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="top">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6-4"
+       transform="translate(-2.7074113,167.79103)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6-1-4"
+       transform="translate(48.482639,133.2759)" />
+    <text
+       xml:space="preserve"
+       id="text28225"
+       style="line-height:1.25;font-family:'Work Sans';font-size:9.87777778px;-inkscape-font-specification:'Work Sans, @wght=314';font-variation-settings:'wght' 314;white-space:pre;shape-inside:url(#rect28227);" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2019_map.png"
+       xlink:href="../exports/2019_map.png"
+       width="212"
+       height="212"
+       preserveAspectRatio="none"
+       id="image24716"
+       x="179.30299"
+       y="-392.65378"
+       clip-path="url(#clipPath25725)"
+       transform="translate(-68.257851,364.88825)" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2021_map.png"
+       xlink:href="../exports/2021_map.png"
+       width="210"
+       height="210"
+       preserveAspectRatio="none"
+       id="image24744"
+       x="369.39612"
+       y="-211.17528"
+       clip-path="url(#clipPath25630)"
+       transform="translate(-258.2278,293.67496)" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2018_map.png"
+       xlink:href="../exports/2018_map.png"
+       width="210"
+       height="210"
+       preserveAspectRatio="none"
+       id="image24702"
+       x="-59.10141"
+       y="-408.68994"
+       clip-path="url(#clipPath25618)"
+       transform="translate(20.243057,360.82351)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;white-space:pre;inline-size:281.348;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="17.791742"
+       y="20.583012"
+       id="text25721"
+       transform="translate(7.9375003,3.7041669)"><tspan
+         x="17.791742"
+         y="20.583012"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#333333;fill-opacity:1;stroke-width:0.264583">Google Location History</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;stroke-width:0.264583"
+       x="14.088842"
+       y="99.529755"
+       id="text25763"><tspan
+         sodipodi:role="line"
+         id="tspan25761"
+         x="14.088842"
+         y="99.529755"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke-width:0.264583">2018</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="164.40497"
+       y="121.03386"
+       id="text25767"><tspan
+         sodipodi:role="line"
+         id="tspan25765"
+         x="164.40497"
+         y="121.03386"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke-width:0.264583">2019</tspan><tspan
+         sodipodi:role="line"
+         x="164.40497"
+         y="131.6172"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         id="tspan25769" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="164.8522"
+       y="230.09409"
+       id="text25779"><tspan
+         sodipodi:role="line"
+         id="tspan25777"
+         x="164.8522"
+         y="230.09409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1">2021</tspan></text>
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2018_col.png"
+       xlink:href="../exports/2018_col.png"
+       width="40"
+       height="40"
+       preserveAspectRatio="none"
+       id="image25791"
+       x="92.042625"
+       y="62.89138" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2019_col.png"
+       xlink:href="../exports/2019_col.png"
+       width="40"
+       height="40"
+       preserveAspectRatio="none"
+       id="image25805"
+       x="242.47227"
+       y="83.403473" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2020_map.png"
+       xlink:href="../exports/2020_map.png"
+       width="272.52927"
+       height="210"
+       preserveAspectRatio="none"
+       id="image24730"
+       x="193.35605"
+       y="-205.56512"
+       clip-path="url(#clipPath25626)"
+       transform="translate(-263.64552,256.39811)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=277';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 277;white-space:pre;fill:#01090b;fill-opacity:1;stroke-width:0.264583"
+       x="77.636703"
+       y="37.937767"
+       id="text25721-9"><tspan
+         id="tspan25719-5"
+         x="77.636703"
+         y="37.937767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=277';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 277;fill:#01090b;fill-opacity:1;stroke-width:0.264583">Datapoints logged by</tspan></text>
+    <g
+       id="g27832"
+       transform="matrix(0.20606641,0,0,0.20606641,162.59236,66.359339)"
+       style="fill:#333333;fill-opacity:1">
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 232.46243,39.601255 c 0.191,-0.07643 0.4192,-0.06703 0.50712,0.02088 0.0879,0.08792 -0.0684,0.150453 -0.34726,0.138964 -0.30823,-0.0127 -0.37092,-0.07539 -0.15986,-0.15985 z m 22.48959,-13.758334 c 0.19099,-0.07643 0.4192,-0.06703 0.50712,0.02089 0.0879,0.08792 -0.0684,0.150453 -0.34727,0.138964 -0.30823,-0.01269 -0.37092,-0.07539 -0.15985,-0.159852 z"
+         id="path27856" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 237.80371,39.417515 c 0,-0.05494 0.20836,-0.2633 0.46302,-0.46302 0.41964,-0.329108 0.429,-0.319749 0.0999,0.0999 -0.34565,0.440729 -0.56292,0.580887 -0.56292,0.363124 z m 23.06053,-5.720937 c 0,-0.363802 0.06,-0.51263 0.13345,-0.330729 0.0734,0.181901 0.0734,0.479557 0,0.661458 -0.0734,0.181901 -0.13345,0.03307 -0.13345,-0.330729 z m -11.28657,-5.55625 c 0.26339,-0.291042 0.53842,-0.529167 0.61118,-0.529167 0.0728,0 -0.0832,0.238125 -0.3466,0.529167 -0.26339,0.291042 -0.53842,0.529167 -0.61118,0.529167 -0.0728,0 0.0832,-0.238125 0.3466,-0.529167 z"
+         id="path27854" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 245.58434,30.256995 c 0,-2.401094 0.0401,-3.38336 0.0891,-2.182813 0.049,1.200547 0.049,3.165078 0,4.365625 -0.049,1.200547 -0.0891,0.218282 -0.0891,-2.182812 z m -6.70141,3.285244 c 0.0127,-0.308227 0.0754,-0.37092 0.15985,-0.159854 0.0764,0.190995 0.067,0.419198 -0.0209,0.507119 -0.0879,0.08792 -0.15046,-0.06835 -0.13897,-0.347265 z m 11.37709,-21.431251 c 0.0127,-0.308225 0.0754,-0.37092 0.15985,-0.159853 0.0764,0.190996 0.067,0.419199 -0.0209,0.507118 -0.0879,0.08792 -0.15045,-0.06835 -0.13896,-0.347265 z"
+         id="path27852" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 247.38029,33.564286 c 0.005,-0.436562 0.0647,-0.583125 0.13177,-0.325694 0.0671,0.257432 0.0627,0.614619 -0.01,0.79375 -0.0725,0.179131 -0.12736,-0.03149 -0.12197,-0.468056 z M 247.2791,9.1741707 c 0.191,-0.07643 0.4192,-0.067031 0.50712,0.020889 0.0879,0.087919 -0.0683,0.1504529 -0.34727,0.1389645 -0.30822,-0.012695 -0.37092,-0.075391 -0.15985,-0.1598525 z"
+         id="path27850" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 236.74538,38.359182 c 0,-0.05494 0.20836,-0.2633 0.46302,-0.463021 0.41964,-0.329107 0.429,-0.319749 0.0999,0.0999 -0.34564,0.44073 -0.56291,0.580888 -0.56291,0.363125 z m -11.3562,-4.816943 c 0.0127,-0.308227 0.0754,-0.37092 0.15985,-0.159854 0.0764,0.190995 0.067,0.419198 -0.0209,0.507119 -0.0879,0.08792 -0.15046,-0.06835 -0.13897,-0.347265 z m 15.85411,-11.851806 c 0,-0.05494 0.20836,-0.263301 0.46302,-0.463021 0.41965,-0.329107 0.42901,-0.319749 0.0999,0.0999 -0.34564,0.440729 -0.56292,0.580887 -0.56292,0.363126 z m -5.55625,-1.322916 c 0,-0.05494 0.20836,-0.263302 0.46302,-0.463021 0.41965,-0.329108 0.42901,-0.319749 0.0999,0.09989 -0.34564,0.44073 -0.56292,0.580888 -0.56292,0.363127 z m 11.59206,-5.372513 c 0.191,-0.07643 0.4192,-0.06703 0.50712,0.02089 0.0879,0.08792 -0.0683,0.150453 -0.34727,0.138964 -0.30822,-0.01269 -0.37092,-0.07539 -0.15985,-0.159852 z"
+         id="path27848" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 232.72702,25.842921 c 0.19099,-0.07643 0.4192,-0.06703 0.50712,0.02089 0.0879,0.08792 -0.0684,0.150453 -0.34727,0.138964 -0.30822,-0.01269 -0.37092,-0.07539 -0.15985,-0.159852 z m 9.7069,-5.37551 c 0.26339,-0.291041 0.53842,-0.529166 0.61118,-0.529166 0.0728,0 -0.0832,0.238125 -0.3466,0.529166 -0.26339,0.291042 -0.53842,0.529167 -0.61118,0.529167 -0.0728,0 0.0832,-0.238125 0.3466,-0.529167 z m -5.55625,-1.322916 c 0.26339,-0.291042 0.53842,-0.529167 0.61118,-0.529167 0.0728,0 -0.0832,0.238125 -0.3466,0.529167 -0.26339,0.291041 -0.53842,0.529166 -0.61118,0.529166 -0.0728,0 0.0832,-0.238125 0.3466,-0.529166 z"
+         id="path27846" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 242.40443,30.918453 c 5.3e-4,-1.891771 0.0426,-2.630961 0.0936,-1.642642 0.0511,0.988317 0.0507,2.536129 -7.9e-4,3.439584 -0.0515,0.903451 -0.0933,0.09483 -0.0928,-1.796942 z m -4.8653,-12.40302 c 0,-0.05494 0.20836,-0.263301 0.46302,-0.463021 0.41964,-0.329107 0.429,-0.319749 0.0999,0.0999 -0.34564,0.440729 -0.56291,0.580887 -0.56291,0.363126 z m 5.77122,-4.843346 c 0.191,-0.07643 0.4192,-0.06703 0.50712,0.02089 0.0879,0.08792 -0.0683,0.150453 -0.34727,0.138965 -0.30822,-0.0127 -0.37092,-0.07539 -0.15985,-0.159853 z"
+         id="path27844" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 254.6709,41.194267 c 0.1819,-0.0734 0.47956,-0.0734 0.66146,0 0.1819,0.0734 0.0331,0.133453 -0.33073,0.133453 -0.36381,0 -0.51263,-0.06005 -0.33073,-0.133453 z m 0.0165,-1.328428 c 0.191,-0.07643 0.4192,-0.06703 0.50712,0.02087 0.0879,0.08792 -0.0683,0.150453 -0.34726,0.138965 -0.30823,-0.0127 -0.37092,-0.07539 -0.15986,-0.159851 z M 238.72975,17.292411 c 0.26339,-0.291041 0.53842,-0.529166 0.61118,-0.529166 0.0728,0 -0.0832,0.238125 -0.34659,0.529166 -0.26339,0.291042 -0.53843,0.529167 -0.61119,0.529167 -0.0728,0 0.0832,-0.238125 0.3466,-0.529167 z"
+         id="path27842" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 249.67621,39.054391 c -0.32911,-0.419645 -0.31975,-0.429004 0.0999,-0.0999 0.25466,0.19972 0.46302,0.40808 0.46302,0.46302 0,0.217763 -0.21728,0.0776 -0.56292,-0.363124 z m -9.88812,-22.820313 c 0.26339,-0.291042 0.53842,-0.529167 0.61118,-0.529167 0.0728,0 -0.0832,0.238125 -0.3466,0.529167 -0.26339,0.291042 -0.53842,0.529167 -0.61118,0.529167 -0.0728,0 0.0832,-0.238125 0.3466,-0.529167 z"
+         id="path27840" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 240.84642,15.175745 c 0.26339,-0.291042 0.53842,-0.529167 0.61118,-0.529167 0.0728,0 -0.0832,0.238125 -0.3466,0.529167 -0.26339,0.291041 -0.53842,0.529166 -0.61118,0.529166 -0.0728,0 0.0832,-0.238125 0.3466,-0.529166 z"
+         id="path27838" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 249.51152,19.743766 c 0.69123,-0.0545 1.82232,-0.0545 2.51354,0 0.69123,0.0545 0.12568,0.0991 -1.25677,0.0991 -1.38244,0 -1.94799,-0.04459 -1.25677,-0.0991 z"
+         id="path27836" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         d="m 230.55815,40.687179 c -1.73612,-0.55455 -3.87687,-2.685042 -4.48175,-4.460293 -0.933,-2.738199 -0.38407,-5.590354 1.4845,-7.713154 4.07456,-4.628954 11.51022,-2.492465 12.58628,3.61642 0.60877,3.456067 -0.75784,6.440152 -3.677,8.028959 -1.7023,0.926507 -4.01729,1.133284 -5.91203,0.528068 z m 5.01137,-1.404223 c 2.7186,-1.234823 4.15681,-4.607592 3.2921,-7.720335 -0.34142,-1.229037 -1.90493,-3.03915 -3.19246,-3.696002 -1.36504,-0.696388 -3.88125,-0.703167 -5.21818,-0.01405 -2.24521,1.157277 -3.49793,3.179371 -3.48938,5.632442 0.009,2.597396 1.25482,4.644051 3.56607,5.858671 1.1042,0.580285 3.69942,0.549032 5.04185,-0.06072 z m 17.31373,1.590466 c -1.37926,-0.452249 -2.35358,-1.113025 -3.4088,-2.311823 -3.15717,-3.586732 -2.14624,-9.19674 2.08759,-11.584834 1.2735,-0.71832 1.70299,-0.820046 3.43959,-0.814679 2.27708,0.007 3.57933,0.548127 5.18602,2.15482 1.46547,1.465474 2.06416,3.027008 2.06254,5.379672 -10e-4,1.623761 -0.12788,2.229115 -0.69755,3.33111 -0.73592,1.423574 -2.02598,2.716543 -3.44573,3.453481 -0.95211,0.494202 -4.17472,0.736196 -5.22366,0.392253 z m 3.58652,-1.122286 c 1.46149,-0.368006 3.4625,-2.082728 4.12026,-3.530774 0.69078,-1.520741 0.63866,-3.663704 -0.12922,-5.312722 -1.78662,-3.83675 -6.61339,-4.783249 -9.65868,-1.894007 -1.28792,1.22193 -1.87325,2.661983 -1.88011,4.625594 -0.01,2.833164 1.55401,5.099569 4.16084,6.029857 1.23575,0.440994 1.89773,0.457033 3.38691,0.08205 z m -13.55721,-4.533204 c -0.11773,-0.181901 -0.27359,-1.982181 -0.34635,-4.000624 l -0.13229,-3.669895 -3.10673,-1.761385 c -3.7721,-2.138627 -4.02499,-2.373418 -4.02499,-3.736895 0,-1.004159 0.17884,-1.236452 3.56218,-4.626772 3.02944,-3.035691 3.68378,-3.569533 4.37519,-3.569533 1.16684,0 1.53499,0.360267 3.38379,3.311391 l 1.65498,2.641734 2.48743,0.07676 c 2.44107,0.07533 3.17752,0.305958 3.17752,0.995071 0,0.927606 -0.77809,1.177204 -3.65692,1.173076 -1.55395,-0.0022 -2.95837,-0.09153 -3.12093,-0.198438 -0.16256,-0.106912 -0.74552,-0.908761 -1.29548,-1.781886 -0.54995,-0.873125 -1.0454,-1.640486 -1.101,-1.705248 -0.12725,-0.148217 -3.79025,3.470922 -3.79025,3.744864 0,0.110949 0.72877,0.569605 1.61948,1.019235 2.9423,1.485268 2.87844,1.334184 2.87844,6.809991 0,4.249738 -0.0495,4.778272 -0.48386,5.171401 -0.57039,0.516196 -1.77531,0.578262 -2.08021,0.107153 z m 2.97103,-20.902083 c -2.06343,-1.804136 -0.67298,-5.2443475 1.96007,-4.8495048 1.40324,0.2104255 2.26318,1.2342178 2.26318,2.6944088 0,1.028174 -0.12761,1.320326 -0.86408,1.978362 -1.08074,0.965643 -2.37876,1.033935 -3.35917,0.176734 z"
+         id="path27834" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="221.65601"
+       y="71.668427"
+       id="text27860"><tspan
+         sodipodi:role="line"
+         id="tspan27858"
+         x="221.65601"
+         y="71.668427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583">Cycling Vacation to Germany</tspan></text>
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.27343px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 218.50581,73.40441 59.65809,-4.2e-5"
+       id="path27862"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:0;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3"
+       transform="translate(22.641793,65.446746)"><tspan
+         id="tspan27858-1"
+         x="66.325005"
+         y="74.03949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583">Switzerland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:0;fill:#1f1f1f;fill-opacity:1;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-8"
+       transform="translate(-45.059939,1.6540349)"><tspan
+         id="tspan27858-1-6"
+         x="66.325005"
+         y="74.03949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#1f1f1f;fill-opacity:1;stroke-width:0.264583">Hometown</tspan></text>
+    <rect
+       style="font-variation-settings:'wght' 314;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.536;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.2216;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect27902"
+       width="6.4255953"
+       height="5.6696429"
+       x="44.736176"
+       y="104.38338" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="206.71742"
+       y="165.29691"
+       id="text27860-0"><tspan
+         sodipodi:role="line"
+         id="tspan27858-2"
+         x="206.71742"
+         y="165.29691"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583">Investigating MeHg in Soils</tspan></text>
+    <path
+       style="fill:none;stroke:#202020;stroke-width:0.263411px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 47.77008,104.37867 c 0,-27.930276 0,-27.930276 0,-27.930276 -26.092772,1e-6 -26.092772,1e-6 -26.092772,1e-6"
+       id="path28141" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.270723px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.277765,125.31957 c 0,15.21049 0,15.21049 0,15.21049 25.765645,0.0618 25.765645,0.0618 25.765645,0.0618"
+       id="path28143" />
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 204.54667,149.085 c -0.0668,17.57297 -0.0668,17.57297 -0.0668,17.57297"
+       id="path28147" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 204.47987,166.65797 c 54.6566,0 54.6566,0 54.6566,0"
+       id="path28149" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.272535px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.297799,192.16735 -0.02199,51.46334 44.626731,0.0256"
+       id="path28196"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;white-space:pre;fill:#faab18;fill-opacity:1;stroke-width:0.264583"
+       x="176.36655"
+       y="56.249344"
+       id="text25721-9-8"><tspan
+         id="tspan25719-5-7"
+         x="176.36655"
+         y="56.249344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#faab18;fill-opacity:1;stroke-width:0.264583">WIFI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;white-space:pre;fill:#990000;fill-opacity:1;stroke-width:0.264583"
+       x="176.00932"
+       y="38.007141"
+       id="text25721-9-8-8"><tspan
+         id="tspan25719-5-7-5"
+         x="176.00932"
+         y="38.007141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#990000;fill-opacity:1;stroke-width:0.264583">GPS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;white-space:pre;fill:#1380a1;fill-opacity:1;stroke-width:0.264583"
+       x="176.07755"
+       y="46.913879"
+       id="text25721-9-8-8-6"><tspan
+         id="tspan25719-5-7-5-5"
+         x="176.07755"
+         y="46.913879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#1380a1;fill-opacity:1;stroke-width:0.264583">CELL </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+       x="11.225321"
+       y="275.83826"
+       id="text28475"><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="275.83826"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28477">By Tobias Stalder | Twitter: @toeb18 | Github: toebR</tspan><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="281.12991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28487">Data | Obtained via Google Takeout</tspan><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="286.42157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28489">Basemap | SwissBoundaries<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314"
+   id="tspan28495">3D</tspan> by Swisstopo</tspan><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="291.71326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28491" /><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="297.00491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28481" /><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="302.29657"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28485" /><tspan
+         sodipodi:role="line"
+         x="11.225321"
+         y="307.58823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;stroke-width:0.264583"
+         id="tspan28483" /></text>
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2020_col.png"
+       xlink:href="../exports/2020_col.png"
+       width="40"
+       height="40"
+       preserveAspectRatio="none"
+       id="image25819"
+       x="90.804123"
+       y="161.43694" />
+    <image
+       sodipodi:absref="C:\Users\tobia\OneDrive\Desktop\dataviz\google_location_history_2021\exports\2021_col.png"
+       xlink:href="../exports/2021_col.png"
+       width="40"
+       height="40"
+       preserveAspectRatio="none"
+       id="image25833"
+       x="241.98566"
+       y="192.8255" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6"
+       transform="translate(113.79997,136.03883)"><tspan
+         x="66.325005"
+         y="74.03949"><tspan
+           style="fill:#333333;fill-opacity:1">New Job in Zurich</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6-1"
+       transform="translate(50.798754,99.592953)"><tspan
+         x="66.325005"
+         y="74.03949"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;fill:#333333;fill-opacity:1;stroke-width:0.264583">Drastic reduction </tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.27328px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 217.91045,219.93507 c -0.0503,-8.54823 -0.0503,-8.54823 -0.0503,-8.54823 -37.37119,-0.0473 -37.37119,-0.0473 -37.37119,-0.0473"
+       id="path28053" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6-9"
+       transform="translate(164.80171,199.73524)"><tspan
+         x="66.325005"
+         y="74.03949"><tspan
+           style="fill:#333333;fill-opacity:1">More attention to </tspan></tspan><tspan
+         x="66.325005"
+         y="79.331155"><tspan
+           style="fill:#333333;fill-opacity:1">disabling my GPS</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.242255px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.07375,174.91807 c -34.22644,-2.4e-4 -34.22644,-2.4e-4 -34.22644,-2.4e-4 -0.0715,8.55183 -0.0715,8.55183 -0.0715,8.55183"
+       id="path28151" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.495, 0.16500000000000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 105.6975,185.88525 c 0,0 0,0 0,-2.46337 22.6845,0.001 22.6845,0.001 22.6845,0.001 0,2.45638 0,2.45638 0,2.45638"
+       id="path28188" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=314';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 314;white-space:pre;inline-size:43.1531;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="66.325005"
+       y="74.03949"
+       id="text27860-3-6-4-7"
+       transform="translate(9.376573,162.83567)"><tspan
+         x="66.325005"
+         y="74.03949"><tspan
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1">Summer Vaccation in
+</tspan></tspan><tspan
+         x="66.325005"
+         y="79.331155"><tspan
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1">Northern Switzerland </tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.311347px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 268.18876,232.53403 v 48.21152 l -36.83578,0.0738"
+       id="path28237"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.495001, 0.16500000000000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 256.89575,230.06955 c 0,0 0,0 0,2.46337 22.68446,-10e-4 22.68446,-10e-4 22.68446,-10e-4 0,-2.45638 0,-2.45638 0,-2.45638"
+       id="path28188-8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="12.129755"
+       y="198.33545"
+       id="text25773"><tspan
+         sodipodi:role="line"
+         id="tspan25771"
+         x="12.129755"
+         y="198.33545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1">2020</tspan><tspan
+         sodipodi:role="line"
+         x="12.129755"
+         y="208.91879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Work Sans';-inkscape-font-specification:'Work Sans, @wght=300';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 300;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="tspan25775" /></text>
+  </g>
+</svg>
